@@ -6,4 +6,6 @@ Build ffmpeg staticlly with msvc and rust
 From [ffmpeg-6.1-windows-desktop-vs2022ltl-default.7z](https://yer.dl.sourceforge.net/project/avbuild/windows-desktop/ffmpeg-6.1-windows-desktop-vs2022ltl-default.7z)
 
 To test:
+```console
 ./build.ps1
+```
