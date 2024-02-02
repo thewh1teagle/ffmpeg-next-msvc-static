@@ -1,4 +1,4 @@
-# Download pre build ffmpeg based on https://github.com/wang-bin/avbuild
+# Download pre build static ffmpeg based on https://github.com/wang-bin/avbuild
 $name = "ffmpeg-6.1-windows-desktop-vs2022ltl-default"
 $url = "https://yer.dl.sourceforge.net/project/avbuild/windows-desktop/$name.7z"
 $archivePath = "$name.7z"
